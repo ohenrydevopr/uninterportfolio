@@ -1,0 +1,8 @@
+.about_main{
+  display: flex;
+  height: 12rem;
+  margin-top: 8rem;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
+}
